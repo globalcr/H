@@ -1,0 +1,6 @@
+{
+  "name": "TapGuard",
+  "description": "A precision touch filter utility to ignore repeated taps with adjustable duration (0.01s - 0.10s).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
